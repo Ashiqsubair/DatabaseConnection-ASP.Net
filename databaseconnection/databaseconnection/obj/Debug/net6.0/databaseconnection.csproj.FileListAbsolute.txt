@@ -1,0 +1,17 @@
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\bin\Debug\net6.0\databaseconnection.exe
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\bin\Debug\net6.0\databaseconnection.deps.json
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\bin\Debug\net6.0\databaseconnection.runtimeconfig.json
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\bin\Debug\net6.0\databaseconnection.dll
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\bin\Debug\net6.0\databaseconnection.pdb
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\bin\Debug\net6.0\MySqlConnector.dll
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.csproj.AssemblyReference.cache
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.AssemblyInfoInputs.cache
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.AssemblyInfo.cs
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.csproj.CoreCompileInputs.cache
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.csproj.CopyComplete
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.dll
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\refint\databaseconnection.dll
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.pdb
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\databaseconnection.genruntimeconfig.cache
+E:\ASHIQ\ASP File\databaseconnection\databaseconnection\obj\Debug\net6.0\ref\databaseconnection.dll

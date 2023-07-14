@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99Yel3iiMVCe8VfDqUN+kxc47b5ofhIOlJ0Rok8kJ9PSWwwk6Ii9ZI/OHqnEs/Ph+XnTM1pUNxUsL/QCVkJ04g==",
+  "success": true,
+  "projectFilePath": "E:\\ASHIQ\\ASP File\\databaseconnection\\databaseconnection\\databaseconnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cclab22\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
